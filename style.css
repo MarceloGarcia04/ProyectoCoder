@@ -1,0 +1,28 @@
+.logo {
+    height: 200px;
+}
+
+.slide img{
+    height: 80vh;
+}
+
+.footer{
+    /* background-color: black; */
+    color: black;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.enviar{
+    margin-top: 15px;
+}
+
+.insta{
+    font-size: 2.5rem;
+    color: white;
+    border-radius: 50px;
+
+}
+.boton{
+    color: white;
+}
